@@ -15,3 +15,6 @@ Projeto desenvolvido para a disciplina de **Design Profissional**, com foco em i
 ## Como visualizar
 1. Baixe o arquivo `index.html` ou clone este repositório.
 2. Abra o arquivo `index.html` em qualquer navegador web.
+
+## Próximas melhorias
+- Suporte a atalhos do teclado físico (em andamento).
